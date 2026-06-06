@@ -8,11 +8,14 @@
 
 🎯 Foco em automação, melhoria contínua, análise de dados e transformação digital
 
+
 📎 | [#Curriculo](./Curriculo_Gustavo.pdf) |
 
 
+IDIOMAS
 
-📍 Piracicaba/SP
+Português – Nativo
+Inglês – Básico para leitura técnica
 
 📧 gustavo7dsa@gmail.com
     (19) 9 89434896
