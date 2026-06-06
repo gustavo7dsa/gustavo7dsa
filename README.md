@@ -6,7 +6,7 @@
 
 Resolver problemas reais através da combinação entre engenharia, tecnologia e gestão.
 
-📎 [Currículo Profissional](docs/Curriculo_Gustavo.pdf)
+📎 [Currículo Profissional](docs/Curriculo_Gustavo.docx)
 
 📍 Piracicaba/SP
 
