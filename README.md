@@ -1,10 +1,12 @@
 👋 Olá, eu sou Gustavo de Souza Alves
 
-🎓 Estudante de Engenharia Mecânica
-💻 Desenvolvedor Flutter
-📊 Entusiasta de Gestão de Projetos, Engenharia de Processos e Transformação Digital
+🚀 Estudante de Engenharia Mecânica | Analista de Projetos em Formação
 
-Resolver problemas reais através da combinação entre engenharia, tecnologia e gestão.
+📊 Gestão de Projetos | Engenharia de Processos | Desenvolvimento de Soluções Digitais
+
+💻 Flutter | Firebase | APIs REST | Git | Inteligência Artificial
+
+🎯 Foco em automação, melhoria contínua, análise de dados e transformação digital
 
 📎 | [#Curriculo](./Curriculo_Gustavo.pdf) |
 
