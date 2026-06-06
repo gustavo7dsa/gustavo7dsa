@@ -13,4 +13,4 @@ Resolver problemas reais através da combinação entre engenharia, tecnologia e
 📧 gustavo7dsa@gmail.com
     (19) 9 89434896
 
-🔗 Portifólio: gustavo7dsa/haras-manager-showcase
+🔗 Portifólio: https://github.com/gustavo7dsa/haras-manager-showcase
