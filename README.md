@@ -9,7 +9,7 @@
 🎯 Foco em automação, melhoria contínua, análise de dados e transformação digital
 
 
-📎 | [#Curriculo](./Gustavo de Souza Alves.pdf) |
+📎 | [#Curriculo](./Gustavo.pdf) |
 
 ## 📬 Contato
 
