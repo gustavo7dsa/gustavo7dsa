@@ -11,14 +11,14 @@
 
 📎 | [#Curriculo](./Curriculo_Gustavo.pdf) |
 
+## 📬 Contato
 
-IDIOMAS
+📧 E-mail: [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
 
-Português – Nativo
-Inglês – Básico para leitura técnica
+📱 WhatsApp: https://wa.me/5519989434896
 
-📧 gustavo7dsa@gmail.com
-    (19) 9 89434896
+📸 Instagram: https://instagram.com/gulofit_dsa
+
 
 🔗 Portifólio: Sistema de Gestão para Haras
 
