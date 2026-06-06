@@ -10,9 +10,19 @@
 
 📎 | [#Curriculo](./Curriculo_Gustavo.pdf) |
 
+
+
 📍 Piracicaba/SP
 
 📧 gustavo7dsa@gmail.com
     (19) 9 89434896
 
-🔗 Portifólio: https://github.com/gustavo7dsa/haras-manager-showcase
+🔗 Portifólio: Sistema de Gestão para Haras
+
+• Desenvolvimento completo de aplicação Flutter
+• Mais de 20 módulos funcionais
+• Integração com Firebase e APIs REST
+• Controle financeiro, documental e reprodutivo
+• Arquitetura escalável utilizando Riverpod
+• Controle offline com Hive
+• Gerenciamento do projeto utilizando Git e metodologia agil https://github.com/gustavo7dsa/haras-manager-showcase
