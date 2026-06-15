@@ -6,7 +6,7 @@
 
 💻 Flutter | Firebase | APIs REST | Git | Inteligência Artificial
 
-🎯 Foco em automação, melhoria contínua, análise de dados e transformação digital
+🎯 Foco em automação, gestão, melhoria contínua, análise de dados e transformação digital
 
 
 📎 | [#Curriculo](./Gustavo.pdf) |
