@@ -1,43 +1,43 @@
 # Gustavo de Souza Alves
 
-**Mechanical Engineering Student | Project & Process Analyst | Software Developer**
+**Estudante de Engenharia Mecânica | Projetos, Processos e Tecnologia**
 
-Desenvolvendo soluções que conectam engenharia, gestão e tecnologia para otimizar processos e gerar resultados.
+Desenvolvendo soluções que conectam engenharia, gestão e tecnologia para otimizar processos, apoiar decisões e gerar resultados.
 
 ---
 
 ## Sobre
 
-Atualmente atuo no desenvolvimento de soluções digitais voltadas à automação, análise de dados e transformação de processos. Tenho interesse especial em gestão de projetos, melhoria contínua, engenharia de processos e desenvolvimento de aplicações com foco em eficiência operacional.
+Profissional com perfil analítico e multidisciplinar, com experiência em operações técnicas, gestão administrativa e desenvolvimento de soluções digitais. Tenho interesse especial em gestão de projetos, melhoria contínua, engenharia de processos e transformação digital, sempre com foco em eficiência operacional e resolução de problemas.
 
 ### Principais áreas de atuação
 
-* Gestão e Planejamento de Projetos;
+* Gestão e planejamento de projetos;
 * Engenharia e otimização de processos;
 * Automação e transformação digital;
 * Análise e interpretação de dados;
-* Desenvolvimento de aplicações mobile e web.
+* Desenvolvimento de soluções para apoio operacional e tomada de decisão.
 
-### Tecnologias e Ferramentas
+### Competências Tecnológicas
 
-* Flutter
-* Firebase
-* APIs REST
-* Git & GitHub
-* Riverpod
-* Hive
-* Inteligência Artificial aplicada à produtividade e tomada de decisão
+* Desenvolvimento e implementação de soluções digitais;
+* Automação e otimização de processos operacionais;
+* Análise, consolidação e interpretação de dados;
+* Construção de indicadores e apoio à tomada de decisão;
+* Gestão de projetos e controle de versões;
+* Aplicação de Inteligência Artificial para produtividade e inovação;
+* Trabalho colaborativo com metodologias ágeis.
 
 ---
 
 ## Resultados e Experiência
 
-* Desenvolvimento de soluções completas, desde o levantamento de requisitos até a implantação;
-* Estruturação de aplicações escaláveis com foco em manutenção e crescimento contínuo;
-* Implementação de recursos offline para garantir disponibilidade e confiabilidade dos dados;
-* Integração entre diferentes serviços e APIs para automatização de processos;
-* Aplicação de metodologias ágeis no gerenciamento e evolução dos projetos;
-* Utilização de inteligência artificial para apoio à análise, produtividade e geração de valor.
+* Condução de soluções completas, desde o levantamento de requisitos até a implantação;
+* Estruturação de sistemas com foco em escalabilidade, manutenção e evolução contínua;
+* Integração de informações para redução de atividades manuais e aumento da confiabilidade dos dados;
+* Desenvolvimento de recursos voltados à continuidade operacional e eficiência dos processos;
+* Aplicação de metodologias ágeis na gestão e evolução de projetos;
+* Utilização de Inteligência Artificial para apoio à análise, produtividade e geração de valor.
 
 ---
 
@@ -49,18 +49,17 @@ Sistema de gestão desenvolvido para centralizar e automatizar processos adminis
 
 **Principais características:**
 
-* Desenvolvimento completo utilizando Flutter;
+* Desenvolvimento completo da solução;
 * Mais de 20 módulos funcionais;
-* Integração com Firebase e APIs REST;
 * Controle financeiro, documental e reprodutivo;
-* Arquitetura escalável baseada em Riverpod;
-* Funcionamento offline com Hive;
-* Gerenciamento do projeto utilizando Git e metodologias ágeis.
+* Estrutura projetada para crescimento e manutenção contínua;
+* Recursos para operação mesmo em cenários com limitação de conectividade;
+* Gestão do projeto baseada em boas práticas de organização e evolução contínua.
 
 **Impacto do projeto:**
 
 * Centralização das informações em uma única plataforma;
-* Redução da utilização de controles manuais;
+* Redução da dependência de controles manuais;
 * Maior rastreabilidade e organização dos registros;
 * Apoio à tomada de decisão por meio da consolidação de dados.
 
