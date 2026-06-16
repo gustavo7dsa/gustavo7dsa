@@ -1,35 +1,87 @@
-👋 Olá, eu sou Gustavo de Souza Alves
+# Gustavo de Souza Alves
 
-🚀 Estudante de Engenharia Mecânica | Analista de Projetos em Formação
+**Mechanical Engineering Student | Project & Process Analyst | Software Developer**
 
-📊 Gestão de Projetos | Engenharia de Processos | Desenvolvimento de Soluções Digitais
+Desenvolvendo soluções que conectam engenharia, gestão e tecnologia para otimizar processos e gerar resultados.
 
-💻 Flutter | Firebase | APIs REST | Git | Inteligência Artificial
+---
 
-🎯 Foco em automação, gestão, melhoria contínua, análise de dados e transformação digital
+## Sobre
 
+Atualmente atuo no desenvolvimento de soluções digitais voltadas à automação, análise de dados e transformação de processos. Tenho interesse especial em gestão de projetos, melhoria contínua, engenharia de processos e desenvolvimento de aplicações com foco em eficiência operacional.
 
-📎 | [#Curriculo](./Gustavo.pdf) |
+### Principais áreas de atuação
 
-📬 Contato
+* Gestão e Planejamento de Projetos;
+* Engenharia e otimização de processos;
+* Automação e transformação digital;
+* Análise e interpretação de dados;
+* Desenvolvimento de aplicações mobile e web.
 
-E-mail: [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
+### Tecnologias e Ferramentas
 
-Linkedin: https://www.linkedin.com/in/gustavo7dsa/
+* Flutter
+* Firebase
+* APIs REST
+* Git & GitHub
+* Riverpod
+* Hive
+* Inteligência Artificial aplicada à produtividade e tomada de decisão
 
-WhatsApp: https://wa.me/5519989434896
+---
 
-Instagram: https://instagram.com/gulofit_dsa
+## Resultados e Experiência
 
+* Desenvolvimento de soluções completas, desde o levantamento de requisitos até a implantação;
+* Estruturação de aplicações escaláveis com foco em manutenção e crescimento contínuo;
+* Implementação de recursos offline para garantir disponibilidade e confiabilidade dos dados;
+* Integração entre diferentes serviços e APIs para automatização de processos;
+* Aplicação de metodologias ágeis no gerenciamento e evolução dos projetos;
+* Utilização de inteligência artificial para apoio à análise, produtividade e geração de valor.
 
+---
 
+## Projeto em Destaque
 
-🔗 Portifólio: Sistema de Gestão para Haras
+### Haras Manager
 
-• Desenvolvimento completo de aplicação Flutter
-• Mais de 20 módulos funcionais
-• Integração com Firebase e APIs REST
-• Controle financeiro, documental e reprodutivo
-• Arquitetura escalável utilizando Riverpod
-• Controle offline com Hive
-• Gerenciamento do projeto utilizando Git e metodologia agil https://github.com/gustavo7dsa/haras-manager-showcase
+Sistema de gestão desenvolvido para centralizar e automatizar processos administrativos e operacionais de haras.
+
+**Principais características:**
+
+* Desenvolvimento completo utilizando Flutter;
+* Mais de 20 módulos funcionais;
+* Integração com Firebase e APIs REST;
+* Controle financeiro, documental e reprodutivo;
+* Arquitetura escalável baseada em Riverpod;
+* Funcionamento offline com Hive;
+* Gerenciamento do projeto utilizando Git e metodologias ágeis.
+
+**Impacto do projeto:**
+
+* Centralização das informações em uma única plataforma;
+* Redução da utilização de controles manuais;
+* Maior rastreabilidade e organização dos registros;
+* Apoio à tomada de decisão por meio da consolidação de dados.
+
+🔗 **Repositório:**
+https://github.com/gustavo7dsa/haras-manager-showcase
+
+---
+
+## Currículo
+
+📄 [Currículo](./Gustavo.pdf)
+
+---
+
+## Contato
+
+* **E-mail:** [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/gustavo7dsa/
+* **WhatsApp:** https://wa.me/5519989434896
+* **Instagram:** https://instagram.com/gulofit_dsa
+
+---
+
+> *"Acredito que a combinação entre engenharia, gestão e tecnologia é capaz de transformar desafios complexos em soluções práticas e eficientes."*
