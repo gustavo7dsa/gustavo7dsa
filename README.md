@@ -11,13 +11,17 @@
 
 📎 | [#Curriculo](./Gustavo.pdf) |
 
-## 📬 Contato
+📬 Contato
 
-📧 E-mail: [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
+E-mail: [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
 
-📱 WhatsApp: https://wa.me/5519989434896
+Linkedin: https://www.linkedin.com/in/gustavo7dsa/
 
-📸 Instagram: https://instagram.com/gulofit_dsa
+WhatsApp: https://wa.me/5519989434896
+
+Instagram: https://instagram.com/gulofit_dsa
+
+
 
 
 🔗 Portifólio: Sistema de Gestão para Haras
