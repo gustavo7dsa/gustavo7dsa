@@ -2,7 +2,18 @@
 
 **Estudante de Engenharia Mecânica | Projetos, Processos e Tecnologia**
 
-Desenvolvendo soluções que conectam engenharia, gestão e tecnologia para otimizar processos, apoiar decisões e gerar resultados.
+## Contato
+
+* **E-mail:** [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
+* **LinkedIn:** [gustavo7dsa](https://www.linkedin.com/in/gustavo7dsa/)
+* **WhatsApp:** [Contato Direto](https://wa.me/5519989434896)
+* **Instagram:** [@gustavo7dsa](https://instagram.com/gulofit_dsa)
+  
+---
+
+## Currículo
+
+📄 [Currículo](./Gustavo.pdf)
 
 ---
 
@@ -65,21 +76,6 @@ Sistema de gestão desenvolvido para centralizar e automatizar processos adminis
 
 🔗 **Repositório:**
 [Haras Manager](https://github.com/gustavo7dsa/haras-manager-showcase)
-
----
-
-## Currículo
-
-📄 [Currículo](./Gustavo.pdf)
-
----
-
-## Contato
-
-* **E-mail:** [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
-* **LinkedIn:** [gustavo7dsa](https://www.linkedin.com/in/gustavo7dsa/)
-* **WhatsApp:** [Contato Direto](https://wa.me/5519989434896)
-* **Instagram:** [@gustavo7dsa](https://instagram.com/gulofit_dsa)
 
 ---
 
