@@ -64,7 +64,7 @@ Sistema de gestão desenvolvido para centralizar e automatizar processos adminis
 * Apoio à tomada de decisão por meio da consolidação de dados.
 
 🔗 **Repositório:**
-https://github.com/gustavo7dsa/haras-manager-showcase
+[Haras Manager](https://github.com/gustavo7dsa/haras-manager-showcase)
 
 ---
 
@@ -77,9 +77,9 @@ https://github.com/gustavo7dsa/haras-manager-showcase
 ## Contato
 
 * **E-mail:** [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/gustavo7dsa/
-* **WhatsApp:** https://wa.me/5519989434896
-* **Instagram:** https://instagram.com/gulofit_dsa
+* **LinkedIn:** [gustavo7dsa](https://www.linkedin.com/in/gustavo7dsa/)
+* **WhatsApp:** [Contato Direto](https://wa.me/5519989434896)
+* **Instagram:** [@gustavo7dsa](https://instagram.com/gulofit_dsa)
 
 ---
 
