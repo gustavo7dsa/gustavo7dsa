@@ -54,6 +54,9 @@ Profissional com perfil analítico e multidisciplinar, com experiência em opera
 
 ## Projeto em Destaque
 
+🔗 **Repositório:**
+[Haras Manager](https://github.com/gustavo7dsa/haras-manager-showcase)
+
 ### Haras Manager
 
 Sistema de gestão desenvolvido para centralizar e automatizar processos administrativos e operacionais de haras.
@@ -73,9 +76,6 @@ Sistema de gestão desenvolvido para centralizar e automatizar processos adminis
 * Redução da dependência de controles manuais;
 * Maior rastreabilidade e organização dos registros;
 * Apoio à tomada de decisão por meio da consolidação de dados.
-
-🔗 **Repositório:**
-[Haras Manager](https://github.com/gustavo7dsa/haras-manager-showcase)
 
 ---
 
