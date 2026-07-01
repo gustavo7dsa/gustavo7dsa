@@ -6,7 +6,7 @@
 
 * **E-mail:** [gustavo7dsa@gmail.com](mailto:gustavo7dsa@gmail.com)
 * **LinkedIn:** [gustavo7dsa](https://www.linkedin.com/in/gustavo7dsa/)
-* **WhatsApp:** [Contato Direto](https://wa.me/5519989434896)
+* **WhatsApp:** [Encaminhar Menssagem](https://wa.me/5519989434896)
 * **Instagram:** [@gustavo7dsa](https://instagram.com/gulofit_dsa)
   
 ---
